@@ -1,0 +1,17 @@
+# Ignorar dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build do React
+frontend/build/
+
+# Pasta do dist (caso use no backend)
+dist/
